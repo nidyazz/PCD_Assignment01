@@ -1,0 +1,13 @@
+Gambar,Metode Upsampling,MSE,PSNR,SSIM
+gradient_halus,NN,0.415,51.95,0.993
+gradient_halus,Bilinear,0.043,61.783,0.999
+gradient_halus,Bicubic,0.043,61.767,0.999
+gravel_tekstur_halus,NN,510.301,21.053,0.602
+gravel_tekstur_halus,Bilinear,455.942,21.542,0.598
+gravel_tekstur_halus,Bicubic,371.512,22.431,0.67
+astronaut_detail_wajah,NN,297.48,23.396,0.783
+astronaut_detail_wajah,Bilinear,227.027,24.57,0.809
+astronaut_detail_wajah,Bicubic,180.252,25.572,0.839
+checkerboard_tepi_tajam,NN,1907.114,15.327,0.708
+checkerboard_tepi_tajam,Bilinear,1265.02,17.11,0.662
+checkerboard_tepi_tajam,Bicubic,898.843,18.594,0.733
